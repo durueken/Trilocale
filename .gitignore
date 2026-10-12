@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+
+# Ham model kaynakları: sitede yalnızca public/models/apartment.glb kullanılır.
+# Optimizasyon betiği için kaynak GLB ve lisans dosyası depoda tutulur.
+3D/*
+!3D/trilocale_via_boncompagni_milano.glb
+!3D/trilocale_via_boncompagni_milano-glTF/
+3D/trilocale_via_boncompagni_milano-glTF/*
+!3D/trilocale_via_boncompagni_milano-glTF/license.txt
