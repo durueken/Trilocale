@@ -10,3 +10,5 @@ dist/
 !3D/trilocale_via_boncompagni_milano-glTF/
 3D/trilocale_via_boncompagni_milano-glTF/*
 !3D/trilocale_via_boncompagni_milano-glTF/license.txt
+.vercel
+.env*
